@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.hello{
+  background-color: black;
+  color: whitesmoke;
+  margin-top: 0px;
+  padding: 10px;
+}
+
+input, textarea{
+  margin: 10px !important;
+  border-color: black !important;
+
+}
