@@ -3,7 +3,7 @@ import PostList from './PostList'
 import Addpost from './Addpost'
 import Editpost from './Editpost'
 import { BrowserRouter, Route } from 'react-router-dom'
-import bootstrap from '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
     <div className='App'>
